@@ -2,8 +2,8 @@
 
 # TBD
 - [x] Day 1: https://adventofcode.com/2023/day/1 - challenge text seems a bit sexist?
-- [ ] Day 2:
-- [ ] Day 3:
+- [ ] Day 2: https://adventofcode.com/2023/day/2
+- [ ] Day 3: https://adventofcode.com/2023/day/3
 - [ ] Day 4:
 - [ ] Day 5:
 - [ ] Day 6:
